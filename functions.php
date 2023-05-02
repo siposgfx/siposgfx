@@ -10,9 +10,9 @@ require 'vendor/autoload.php';
 use YahnisElsts\PluginUpdateChecker\v5\PucFactory;
 
 $myUpdateChecker = PucFactory::buildUpdateChecker(
-	'https://github.com/jsdizajner/sipos-digital',
+	'https://github.com/siposgfx/siposgfx',
 	__FILE__,
-	'sipos-digital'
+	'siposgfx'
 );
 
 //Set the branch that contains the stable release.
