@@ -4,10 +4,11 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>siposgfx | grafický dizajnér</title>
+	<link rel="icon" type="image/x-icon" href="img/favicon.jpg">
 	<?php wp_head(); ?>
 </head>
 <body>
-	<h1>niee test</h1>
+	
 </body> 
 <?php wp_footer(); ?>
 	</html>
