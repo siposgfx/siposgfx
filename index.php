@@ -7,14 +7,15 @@
 	<?php get_header(); ?>
 </head>
 <body class="cstm-bg">
-    <div class="container">
+   
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
+<div class="container">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
   <a class="navbar-brand" href="#">
-    <img src="/siposgfx.sk/web/wp-content/themes/siposgfx/img/logo.png" width="30" height="30" alt="">
+    <img src="/siposgfx.sk/web/wp-content/themes/siposgfx/img/main-logo.png" width="30" height="30" alt="">
   </a>
    
   </div>
