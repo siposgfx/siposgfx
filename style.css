@@ -4,7 +4,7 @@ Theme URI: https://siposgfx.sk
 Author: SIPOSGFX
 Author URI: https://siposgfx.sk
 Description: SIPOSGFX
-Version: 0.0.6.0005
+Version: 0.0.6.0006
 Text Domain: sgfx
 */
 
@@ -16,4 +16,5 @@ Text Domain: sgfx
 /* ---- */
 .email-txt {
     color:#0892EB;
+    text-decoration: none !important;
 }
