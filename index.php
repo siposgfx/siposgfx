@@ -6,7 +6,7 @@
 	<title>siposgfx | grafický dizajner</title>
 	<?php get_header(); ?>
 </head>
-<body>
+<body class="cstm-bg">
 
 </body>
 
