@@ -15,7 +15,7 @@
   </button>
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
   <a class="navbar-brand" href="#">
-    <img src="/siposgfx.sk/web/wp-content/themes/siposgfx/img/main-logo.png" width="30" height="30" alt="">
+    <img src="siposgfx.sk/siposgfx.sk/web/wp-content/themes/siposgfx/img/logo.png" width="30" height="30" alt="">
   </a>
    
   </div>
