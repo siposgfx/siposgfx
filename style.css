@@ -4,6 +4,11 @@ Theme URI: https://siposgfx.sk
 Author: SIPOSGFX
 Author URI: https://siposgfx.sk
 Description: SIPOSGFX
-Version: 0.0.2
+Version: 0.0.3
 Text Domain: sgfx
 */
+
+/* BODY SETTINGS */
+body {
+    background-image: #F8F8F8 !important;
+}
