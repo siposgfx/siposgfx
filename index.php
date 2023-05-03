@@ -8,20 +8,20 @@
 </head>
 <body class="cstm-bg">
    
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-lg navbar-light">
 <div class="container">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
   <a class="navbar-brand" href="#">
-    <img src="siposgfx.sk/siposgfx.sk/web/wp-content/themes/siposgfx/img/logo.png" width="30" height="30" alt="">
+    <img src="siposgfx.sk/web/wp-content/themes/siposgfx/img/logo.png" width="30" height="30" alt="">
   </a>
    
   </div>
   <ul class="navbar-nav my-2 my-lg-0">
     <li class="nav-item">
-        <a class="nav-link " href="mailto:work@siposgfx.sk">work@siposgfx.sk</a>
+        <a class="email-txt nav-link" href="mailto:work@siposgfx.sk">work@siposgfx.sk</a>
       </li>
     </ul>
 </nav>
