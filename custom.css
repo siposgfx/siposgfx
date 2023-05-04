@@ -1,0 +1,22 @@
+/* BODY SETTINGS */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+  }
+.cstm-bg {
+    background-image: #F8F8F8 !important;
+}
+
+/* ---- */
+
+
+/* TOP NAV  */
+.email-txt {
+    color:#0892EB;
+}
+/* ---- */
+
+/* photo section  */
+.text-headline  {
+    font-size: 1.3em !important;
+    color: #878686 !important;
+}
